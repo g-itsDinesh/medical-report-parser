@@ -1,0 +1,21 @@
+Patient Name: Jane Smith
+
+Patient ID: JS-67890
+
+Date of Birth: 1968-11-15
+
+Date of Report: 2025-08-24
+
+Clinical History: The patient is a 56-year-old female with a known history of hypothyroidism and rheumatoid arthritis. She presents today with complaints of severe abdominal pain, nausea, and a low-grade fever that started 48 hours ago. Her current medications include Levothyroxine and Methotrexate. She reports no recent travel.
+
+Examination Findings: Physical examination reveals significant tenderness in the right lower quadrant of the abdomen. There is guarding on palpation. Vital signs are as follows: Blood Pressure: 140/90 mmHg, Heart Rate: 95 bpm, Temperature: 38.1°C.
+
+Imaging Results (CT Scan of Abdomen): The appendix appears inflamed and distended, consistent with acute appendicitis. No evidence of perforation or abscess.
+
+Impression: The clinical and radiological findings are highly suggestive of acute appendicitis.
+
+Recommendations: 
+1.  Immediate surgical consultation for a possible appendectomy.
+2.  Administer IV fluids and Piperacillin to manage potential infection.
+3.  Monitor vital signs closely.
+4.  BRCA1 gene test was ordered due to family history of ovarian cancer.
