@@ -5,7 +5,7 @@ This project uses a pre-trained BERT model to extract named entities (like disea
 ## Setup
 
 1. Clone the repository:
-   `git clone <your-repo-url>`
+   `git clone https://github.com/g-itsDinesh/medical-report-parser.git`
 
 2. Create a virtual environment and activate it.
 
